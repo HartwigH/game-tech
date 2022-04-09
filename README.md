@@ -2,13 +2,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-```
+1.  Clone the repository `git clone https://github.com/HartwigH/game-tech.git`
+2.  Run initial install `npm install`
+3.  Create .env `cp .env.example .env.local` and fill .env
+4.  Run dev `npm run dev`
+5.  Run build `npm run build`
+6.  Run start (production) `npm run start`
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
